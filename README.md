@@ -1,4 +1,4 @@
-# Checkout Engine (Demo)
+# Distributed E-Commerce Checkout Engine
 
 A simple, single-file Go project that copies how an online store's checkout works — built to demonstrate the **Saga pattern** in a distributed, event-driven system.
 
